@@ -14,5 +14,5 @@ require (
 	github.com/yudai/gojsondiff v1.0.0
 	github.com/yudai/golcs v0.0.0-20150405163532-d1c525dea8ce
 	github.com/yudai/pp v2.0.2-0.20150410014804-be8315415630+incompatible
-	golang.org/x/sys v0.0.0-20160717071931-a646d33e2ee3 // indirect
+	golang.org/x/sys v0.1.0 // indirect
 )
